@@ -1,4 +1,15 @@
-## User Stories
+## Story App
+
+Background
+-----
+
+Instructions
+------
+
+
+User Stories
+------
+```
 As a child  
 so I can complete a sentence,  
 I can click and select a word.  
@@ -9,4 +20,5 @@ I can click and select a word at a time from an array of words.
 
 As a child  
 so I can see the points I have scored,  
-I can click the submit button when I have finished my sentence.  
+I can click the submit button when I have finished my sentence.
+```
