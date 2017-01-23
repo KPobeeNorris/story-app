@@ -42,5 +42,11 @@ so I can see the points I have scored,
 I can click the submit button when I have finished my sentence.
 ```
 
+Next steps...
+-----
+* Since completing Maker's I have created my own repo of the project and deployed the app via Heroku -  https://makers-story-app.herokuapp.com/.  
+* There is an issue with the cartoon characters in so much as that if you initially choose one animal, but change your mind and click on another, it will leave all the animals you've chosen on the screen.
+* Ideally the sketch pad would be extended to include the colour palette to make it even more appealing, and exciting to use.  
+
 Contributors:
 [Blanca Mendizabal Perello](https://github.com/groundberry) | [Katy McCann](https://github.com/Katy600) | [Akram Rasikh](https://github.com/AkramRasikh)
